@@ -2,7 +2,7 @@
 
 **Name:** Genevieve Selsor  
 **Email:** gselsor@ucsd.edu  
-**Section:** D21
+**Section:** D21  
 **Mentor:** Armin Schwartzman
 
 ## Quarter 2 Project Brainstorming
